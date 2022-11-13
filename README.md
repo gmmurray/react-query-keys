@@ -1,7 +1,7 @@
-[![npm version]](https://badgen.net/npm/v/react-query-keys)
-[![license]](https://badgen.net/npm/license/react-query-keys)
-[![types]](https://badgen.net/npm/types/react-query-keys)
-[![language]](https://badgen.net/packagist/lang/react-query-keys)
+![npm version](https://badgen.net/npm/v/react-query-keys)
+![license](https://badgen.net/npm/license/react-query-keys)
+![types](https://badgen.net/npm/types/react-query-keys)
+![language](https://badgen.net/packagist/lang/react-query-keys)
 
 # react-query-keys
 
