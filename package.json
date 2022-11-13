@@ -1,6 +1,6 @@
 {
   "name": "react-query-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "helps create unique query keys for use with the react-query package",
   "repository": "https://github.com/gmmurray/react-query-keys.git",
   "bugs": "https://github.com/gmmurray/react-query-keys/issues",
