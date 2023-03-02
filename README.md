@@ -132,5 +132,5 @@ Use the `config` constructor parameter to create your query keys instance. Each 
 ## Credits
 
 - [React Query](https://www.npmjs.com/package/@tanstack/react-query)
-- [Query Key Factor](https://www.npmjs.com/package/@lukemorales/query-key-factory)
+- [Query Key Factory](https://www.npmjs.com/package/@lukemorales/query-key-factory)
 - [README template](https://gist.github.com/andreasonny83/7670f4b39fe237d52636df3dec49cf3a)
